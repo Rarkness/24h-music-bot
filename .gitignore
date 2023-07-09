@@ -1,0 +1,5 @@
+.env
+.DS_Store
+src/asset/music/*
+!src/asset/music/example.yaml
+!src/asset/music/example.mp3
